@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+
+    <input type="file" accept="image/jpeg, image/png, image/jpg,image/webp,image/jfif">
+    <output></output>
+
+    <script>
+        const input = document.querySelector("input")
+        const output = document.querySelector("output")
+        let imagesArray = [];
+
+
+        input.addEventListener("change", () => {
+            const file = input.files
+            imagesArray.push(file[0])
+            displayImages()
+        })
+
+        function displayImages() {
+            let images = ""
+            imagesArray.forEach((image, index) => {
+                images = `<div class="image">
+                  <img src="${URL.createObjectURL(image)}" alt="image">
+                  
+                </div>`
+            })
+            output.innerHTML = images
+        }
+
+        function deleteImage(index) {
+            imagesArray.splice(index, 1)
+            displayImages()
+        }
+    </script>
+</body>
+
+</html>

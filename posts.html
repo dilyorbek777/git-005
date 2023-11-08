@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JassBee.in | Post </title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="shortcut icon" href="./images/explore.png" type="image/x-icon">
+    <link rel="stylesheet" href="./home.css">
+    <link rel="stylesheet" href="./posts.css">
+</head>
+
+<body>
+
+    <div class="system">
+        <div class="home">
+            <nav>
+                <div class="logo">JassBee.in </div>
+                <div class="form-search">
+                    <form id="search"><i class="fa fa-search"></i><input type="text"
+                            placeholder="Search for creators, inspirations, travel video projects..."></form>
+                </div>
+                <div class="other-icos">
+                    <button><i class="fa-solid fa-square-plus"></i></button>
+                    <button><i class="fa-solid fa-video"></i></button>
+                    <button>
+                        <div id="userprofile"><img src="./images/Google__G__Logo 1.png" alt=""></div>
+                    </button>
+                </div>
+            </nav>
+            <div class="placement">
+                <div class="place active"><i class="fa fa-home"></i></div>
+                <div class="place"><i class="fa-solid fa-user"></i></div>
+                <div class="place"><i class="fa-solid fa-comments"></i></div>
+                <div class="place"><i class="fa-solid fa-compass"></i></div>
+                <div class="place"><i class="fa-solid fa-users"></i></div>
+                <div class="place"><i class="fa-solid fa-gear"></i></div>
+            </div>
+
+            <main>
+                <div class="events">
+                    <div class="recent">
+                       
+                    </div>
+                    <form id="post">
+                         <img src="./images/explore.png" style="width: 100px;
+                         margin: 30px 0;" id="outputImg" alt="">
+                        <label for="username">User name </label>
+                        <input type="text" name="username" id="username">
+                        <label for="describtion">Describtion</label>
+                        <input type="text" name="describtion" id="describtion">
+                        <!-- <label for="img"><img src="./images/addimg.png" id="addimg" alt=""></label>
+                        <input type="file" name="img" id="img" style="display: none;"> -->
+                       
+                        <button>Post story</button>
+                    </form>
+                </div>
+            </main>
+        </div>
+    </div>
+    
+    <script src="./posts.js"></script>
+</body>
+
+</html>

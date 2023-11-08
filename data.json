@@ -1,0 +1,321 @@
+{
+  "passwords": [
+    {
+      "username": "Dilyorbek Asfandiyorov",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "password": "777777",
+      "id": 13,
+      "logo": "./images/mylogo.jpg"
+    },
+    {
+      "id": 1,
+      "email": "travelaroundtheworld@jassy.in",
+      "password": "Dilly3112",
+      "username": "Grand Warden",
+      "logo": "./images/user501.png"
+    },
+    {
+      "username": "Dilly Charol",
+      "email": "dilly@gmail.com",
+      "password": "Nunez2305",
+      "id": 2,
+      "logo": "./images/user500.png"
+    },
+    {
+      "username": "Dilyorbek",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "password": "dilly2204",
+      "id": 3,
+      "logo": "./images/user502.jfif"
+    },
+    {
+      "username": "Nunez Dan",
+      "email": "Nunezdilyorbek@gmail.com",
+      "password": "dillig2204",
+      "id": 4,
+      "logo": "./images/user512.jfif"
+    },
+    {
+      "username": "Luis Diaz",
+      "email": "Nunezdilyorbek@gmail.com",
+      "password": "dillig2204",
+      "id": 5,
+      "logo": "./images/user511.jfif"
+    },
+    {
+      "username": "Darwin Nunez",
+      "email": "Nunezdilyorbek@gmail.com",
+      "password": "dillig2204",
+      "id": 6,
+      "logo": "./images/user510.png"
+    },
+    {
+      "username": "Mohammed Salah",
+      "email": "Nunezdilyorbek@gmail.com",
+      "password": "dillig2204",
+      "id": 7,
+      "logo": "./images/user513.jfif"
+    },
+    {
+      "username": "Carlo Ancelloti",
+      "email": "Nunezbek@gmail.com",
+      "password": "dillig2204",
+      "id": 8,
+      "logo": "./images/user508.jfif"
+    },
+    {
+      "username": "Ilon Musk",
+      "email": "Nunezdilyorbek@gmail.com",
+      "password": "dillig2204",
+      "id": 9,
+      "logo": "./images/user507.jfif"
+    },
+    {
+      "username": "Cristiano Ronaldo",
+      "email": "CristianoRonaldo@gmail.com",
+      "password": "cr7Ronaldo",
+      "id": 9,
+      "logo": "./images/cr7.jpg"
+    },
+    {
+      "username": "Tiago Nunez",
+      "email": "tiago@gmail.com",
+      "password": "dillig2204",
+      "id": 10,
+      "logo": "./images/user506.jfif"
+    },
+    {
+      "username": "Greenwood",
+      "email": "Nunezdilyorbek@gmail.com",
+      "password": "dillig2204",
+      "id": 11,
+      "logo": "./images/user515.jfif"
+    },
+    {
+      "username": "Rashford",
+      "email": "Rashford10@gmail.com",
+      "password": "rash102055",
+      "id": 12,
+      "logo": "./images/user514.jfif"
+    },
+    {
+      "username": "Otajon",
+      "email": "otajonmaxmasoliyev775@gmail.com",
+      "password": "123456789",
+      "id": 14,
+      "logo": "./images/nonelogo.png"
+    },
+    {
+      "username": "Doni",
+      "email": "doni@gmail.com",
+      "password": "doni3535",
+      "id": 15
+    },
+    {
+      "username": "dilyorbek",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "password": "123456789",
+      "id": 16
+    },
+    {
+      "username": "Dilyorbek",
+      "email": "sampleEmail@gmail.com",
+      "password": "dilly2305",
+      "id": 17
+    },
+    {
+      "username": "Dilyorbek",
+      "email": "neymar@brasil.co",
+      "password": "derter",
+      "id": 18
+    },
+    {
+      "username": "Dilyorbek",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "password": "dilly",
+      "id": 19
+    },
+    {
+      "username": "Gulshoda",
+      "email": "guli@gmail.camp",
+      "password": "guli2424",
+      "id": 20
+    },
+    {
+      "username": "Ikrom",
+      "email": "ikromkachok@fred.cop",
+      "password": "ikrom2626",
+      "id": 21
+    },
+    {
+      "username": "Bronter",
+      "password": "figgre",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "id": 22
+    },
+    {
+      "username": "Bronter",
+      "password": "figgre",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "id": 23
+    },
+    {
+      "username": "Bronter",
+      "password": "figgre",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "id": 24
+    },
+    {
+      "username": "Bronter",
+      "password": "figgre",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "id": 25
+    },
+    {
+      "username": "Bronter",
+      "password": "figgre",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "id": 26
+    },
+    {
+      "username": "Bronter",
+      "password": "figgre",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "id": 27
+    },
+    {
+      "username": "Bronter",
+      "password": "figgre",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "id": 28
+    },
+    {
+      "username": "Bronter",
+      "password": "figgre",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "id": 29
+    },
+    {
+      "username": "Bronter",
+      "password": "figgre",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "id": 30
+    },
+    {
+      "username": "Bronter",
+      "password": "figgre",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "id": 31
+    },
+    {
+      "username": "Bronter",
+      "password": "figgre",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "id": 32
+    },
+    {
+      "username": "Bronter",
+      "password": "figgre",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "id": 33
+    },
+    {
+      "username": "Bronter",
+      "password": "figgre",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "id": 34
+    },
+    {
+      "username": "Bronter",
+      "password": "figgre",
+      "email": "asfandiyorovdilyorbek@gmail.com",
+      "id": 35
+    },
+    {
+      "username": "Parviz_008",
+      "email": "parviz@sobaka.it",
+      "password": "12345",
+      "id": 36
+    },
+    {
+      "username": "Zahro",
+      "email": "zahro@gmial.com",
+      "password": "passcode1",
+      "id": 37
+    },
+    {
+      "username": "Farangiz009",
+      "email": "farangiz@sobaka.it",
+      "password": "fara12",
+      "id": 38
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "username": "Rashford",
+      "describtion": "lorem7213 aushx Salah masihc qjda",
+      "logo": "./images/user502.jfif",
+      "img": "./images/user interface (1).png"
+    },
+    {
+      "username": "Neymar",
+      "describtion": "While a picture can tell a thousand words, words can enhance a picture by telling a story, providing context, or adding an air of mystery. ",
+      "id": 2
+    },
+    {
+      "username": "dilyorbek",
+      "describtion": "5   One way to achieve this is to use a site like WebSemantics Image to DataURL converter to create a data-string representation of your desired image",
+      "id": 3
+    },
+    {
+      "username": "dilyorbek",
+      "describtion": "While a picture can tell a thousand words, words can enhance a picture by telling a story, providing context, or adding an air of mystery. Similarly, Instagram captions can help complete your Instagram post. You might add an Instagram caption to direct customers to your bio link, share selfie quotes, or increase social media engagement. ",
+      "id": 4
+    },
+    {
+      "username": "Dilyorbek",
+      "describtion": "5   One way to achieve this is to use a site like WebSemantics Image to DataURL converter to create a data-string representation of your desired image",
+      "id": 5
+    },
+    {
+      "username": "Dilyorbek",
+      "describtion": "300+ BEST INSTAGRAM CAPTIONS AND SELFIE QUOTES FOR YOUR PHOTOS",
+      "id": 6
+    },
+    {
+      "username": "Dilyorbek",
+      "describtion": "→ Click Here to Start Selling on Instagram with Shopify",
+      "id": 7
+    },
+    {
+      "username": "George",
+      "describtion": "id bn ishlayapti",
+      "id": 8
+    },
+    {
+      "username": "Dilyorbek",
+      "describtion": "asc hhsdyhsfvjyan jwhagb awwid aw7hqw qewuh wio eywqii qhwlwehweywguwi wwuhuqgewjgvjfs w e dheuewfk j",
+      "id": 9
+    },
+    {
+      "username": "I",
+      "id": 10
+    },
+    {
+      "username": "Ikrom",
+      "describtion": "Nike shoe collection  Just do it, then do it again",
+      "id": 11
+    },
+    {
+      "username": "Parviz_008",
+      "describtion": "My fullname is Dilyorbek Asfandiyorov. I was born on May 23, 2009 in Samarkand. I became interested in computers when I was 11 years old. From the age of 13, I became interested in programming and started learning programming languages. Now I am a frontend developer. For 9 months, I studied programming languages such as HTML , CSS , JAVASCRIPT , REACTJS  in depth.",
+      "id": 12
+    },
+    {
+      "username": "Farangiz009",
+      "describtion": "Free all-in-one video editor for everyone to create anything anywhere BY Farangiz009",
+      "id": 13
+    }
+  ]
+}

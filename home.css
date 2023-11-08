@@ -1,0 +1,299 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+nav {
+    width: 100%;
+    height: 70px;
+    background-color: #ffffff;
+    padding: 10px 30px;
+    display: flex;
+    align-items: center;
+    left: 0;
+    justify-content: center;
+    gap: 30px;
+    
+}
+
+
+.form-search {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
+
+#search {
+    background-color: #F2F5F7;
+    height: 30px;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 15px;
+}
+
+#search input {
+    width: 80%;
+    background: none;
+    border: none;
+    height: 100%;
+}
+
+#search input:focus {
+    border: none;
+    outline: none;
+}
+
+.logo {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.system {
+    width: 100%;
+    height: 100vh;
+    padding: 5%;
+    background-color: #254985;
+}
+
+.other-icos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.other-icos button {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background-color: #F0F3F6;
+}
+
+.home {
+    width: 100%;
+    height: 100%;
+    background-color: #f3f5f7;
+    border-radius: 30px;
+    overflow: hidden;
+    overflow-y: auto;
+    position: relative;
+}
+
+.place.active {
+    background-color: #F2F5F7;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+
+.place {
+    font-size: 25px;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.place:hover {
+    background-color: #F2F5F7;
+    border-radius: 50%;
+}
+
+.placement {
+    position: fixed;
+    top: 50%;
+    width: 80px;
+    background-color: #F6D0FF;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    transform: translate(0px, -50%);
+
+}
+
+::-webkit-scrollbar {
+    background-color: transparent;
+    width: 10px;
+}
+
+main {
+    padding: 0 7%;
+}
+
+.activity {
+    width: 300px;
+    height: max-content ;
+    margin: 30px 0;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.headParag {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.user-others {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.userOther {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.userOther img {
+    width: 70px;
+}
+
+.usersProfiles {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    overflow: hidden;
+    background-color: #fff;
+    overflow-x: auto;
+    gap: 20px;
+    padding: 5px 10px;
+    border-radius: 15px;
+
+}
+
+
+.usersProfiles img {
+    height: 80px;
+}
+
+::-webkit-scrollbar {
+    background-color: transparent;
+    height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #254985;
+    border-radius: 50px;
+
+}
+
+main {
+    display: flex;
+    align-items: start;
+    gap: 30px;
+    justify-content: space-between;
+}
+
+.center {
+    width: 50%;
+    margin: 30px 0;
+
+    /* height: 100vh; */
+}
+
+
+
+.post {
+    margin: 30px 0;
+    border-radius: 30px;
+    padding: 20px;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.userpost {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 20px;
+}
+
+.post img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.userpost img {
+    width: 70px;
+    margin: 20px 0;
+    border-radius: 20px;
+}
+
+.icos{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 20px;
+    font-size: 25px;
+    margin: 20px 0;
+}
+
+.icos i{
+    color: transparent;
+    -webkit-text-stroke: 4px #000;
+    cursor: pointer;
+}
+
+.icos i.active{
+    color: #ff1111;
+    -webkit-text-stroke: 1px #ff1111;
+}
+
+.profImg{
+    width: 50px !important;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid #254985;
+    box-shadow: 3px 3px 3px #254985;
+    
+}
+
+
+.userImg{
+    border-radius: 50%;
+    width: 70px;
+    box-shadow: 3px 3px 3px #254985;
+    height: 70px !important;
+}
+.user-others{
+    margin: 10px 0;
+}
+
+.events{
+    display: flex;
+    width: 100%     ;
+    gap: 30px;
+    height: 530px;
+    overflow: hidden;
+    
+    overflow-y: auto;
+}

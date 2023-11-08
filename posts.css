@@ -1,0 +1,53 @@
+.recent{
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+#post{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+    flex-direction: column;
+}
+
+.events{
+    overflow: hidden !important;
+}
+
+#post input{
+    width: 50%;
+    margin: 10px 0;
+}
+
+label{
+    cursor: pointer;
+
+}
+
+#addimg{
+    width: 30px;
+}
+
+#outputImg{
+    width: 170px;
+    margin: 10px 0;
+    border-radius: 10px;
+}
+
+#post button{
+    padding: 7px 15px;
+    border-radius: 5px;
+    border: none;
+    margin: 10px 0;
+    background-color: #1B53F4;
+    color: #ffffff;
+}
+
+.placement{
+    top: 54% ;
+    
+}
